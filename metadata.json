@@ -1,0 +1,5 @@
+{
+  "name": "Domo to GSheet Workflow Visualizer",
+  "description": "An interactive web application to design and visualize a data workflow that pulls data from a Domo card, applies filters, and exports the result to a Google Sheet. The app uses AI to generate a summary of the configured workflow.",
+  "requestFramePermissions": []
+}
